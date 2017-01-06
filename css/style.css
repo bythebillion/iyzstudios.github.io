@@ -199,8 +199,6 @@
 	width:3000;
 	height: 3000;
 	z-index: -1;
-
-	
 }
 
 @-webkit-keyframes fadeout{
@@ -210,6 +208,6 @@
 	}
 	to{
 		opacity: 0;
-		display: none;
+		
 	}
 }
