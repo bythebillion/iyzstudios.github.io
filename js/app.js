@@ -14,6 +14,7 @@ $(document).ready(function(){
 		
         });
         $('#fadeout').css({
+		"display":"none",
 		        "-webkit-animation-name":"fadeout",
 		        "-webkit-animation-delay":"1s",
 		        "-webkit-animation-duration":"3s",
