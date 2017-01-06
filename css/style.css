@@ -193,7 +193,7 @@
 
 	
 #fadeout{
-	position: fixed;
+	position: absolute;
 	top:0;
 	background-color: black;
 	width:3000;
