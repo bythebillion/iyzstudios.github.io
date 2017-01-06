@@ -199,13 +199,14 @@
 	width:3000;
 	height: 3000;
 	z-index: -1;
-	display: none;
+
 	
 }
 
 @-webkit-keyframes fadeout{
 	from{
 		opacity: 1;
+		display: show;
 	}
 	to{
 		opacity: 0;
