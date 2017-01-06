@@ -19,9 +19,10 @@ $(document).ready(function(){
 		        "-webkit-animation-fill-mode" : "forwards",
 			
 		        });
-	 $('#fadeout').deply(3s).css({
-		 
-		 "display":"none",
-	 });
+	 $('#fadeout').delay(3000)
+      .queue( function(next){ 
+        $(this).hide(); 
+        next(); 
+      });
     });
 });
