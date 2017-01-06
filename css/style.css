@@ -208,6 +208,6 @@
 	}
 	to{
 		opacity: 0;
-		-webkit-apearance: none;
+		display: none;
 	}
 }
