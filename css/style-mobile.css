@@ -1,3 +1,6 @@
 #work{
 	position: fixed;
 }
+body{
+	display: flex;
+}
