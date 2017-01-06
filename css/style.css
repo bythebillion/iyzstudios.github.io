@@ -204,10 +204,10 @@
 @-webkit-keyframes fadeout{
 	from{
 		opacity: 1;
-		
+		display: show;
 	}
 	to{
 		opacity: 0;
-		
+		display: none;
 	}
 }
