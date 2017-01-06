@@ -199,6 +199,7 @@
 	width:3000;
 	height: 3000;
 	z-index: -1;
+	display: none;
 	
 }
 
