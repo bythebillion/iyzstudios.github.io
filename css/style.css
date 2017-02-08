@@ -11,7 +11,7 @@
 		text-align: -webkit-center;
 		z-index: -3;
 		overflow: scroll;
-		background: black;
+		background: white;
 		position: relative;
 		
 	}
@@ -147,7 +147,7 @@
 }
 	#footer {
 		font-family: 'PT Sans', sans-serif;
-		color: white;
+		color: black;
 		bottom: 0;
 		cursor: default;
 		height: 6em;
@@ -197,7 +197,7 @@
 #fadeout{
 	position: fixed;
 	top:0;
-	background-color: black;
+	background-color: white;
 	width:3000;
 	height: 3000;
 	z-index: -1;
