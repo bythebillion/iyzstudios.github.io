@@ -15,7 +15,9 @@
 		position: relative;
 		
 	}
-
+	a{
+		color: white
+}
 	.center{
 		
    		cursor:pointer;
